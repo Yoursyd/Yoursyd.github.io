@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>Http状态码</title>
+    <link href="/2021/07/28/Http%E7%8A%B6%E6%80%81%E7%A0%81/"/>
+    <url>/2021/07/28/Http%E7%8A%B6%E6%80%81%E7%A0%81/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Http状态码详解"><a href="#Http状态码详解" class="headerlink" title="Http状态码详解"></a>Http状态码详解</h1><h2 id="1xx-信息提示"><a href="#1xx-信息提示" class="headerlink" title="1xx-信息提示"></a>1xx-信息提示</h2><h2 id="2xx-成功"><a href="#2xx-成功" class="headerlink" title="2xx-成功"></a>2xx-成功</h2><h2 id="3xx-重定向"><a href="#3xx-重定向" class="headerlink" title="3xx-重定向"></a>3xx-重定向</h2><h2 id="4xx-客户端错误"><a href="#4xx-客户端错误" class="headerlink" title="4xx-客户端错误"></a>4xx-客户端错误</h2><h2 id="5xx-服务端错误"><a href="#5xx-服务端错误" class="headerlink" title="5xx-服务端错误"></a>5xx-服务端错误</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>Http状态码</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>HTTP 状态码</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Python</title>
     <link href="/2021/07/04/python/"/>
     <url>/2021/07/04/python/</url>
